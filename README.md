@@ -16,16 +16,24 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
 - Linux: Advanced knowledge of Linux operating systems, command line tools, and shell scripting for system administration and security tasks.
 - SQL: Experienced in writing complex SQL queries, optimizing database performance, and designing relational database schemas.
 
+## Tools
+- Network Security: Nmap, Wireshark, Nessus
+- Security Automation: Splunk, ELK Stack, Security Information and Event Management (SIEM) tools
+- Incident Response: Security Orchestration, Automation, and Response (SOAR) platforms, TheHive, Cortex
+- Database Management: MySQL, PostgreSQL, MongoDB
+
 ## Experience
 - Cyber Analyst Intern, Company A (Month Year - Month Year)
   - Assisted in performing security assessments, conducting penetration testing, and analyzing vulnerabilities. Collaborated with the team to develop and implement effective security controls.
 - Security Operations Analyst, Company B (Month Year - Present)
   - Conduct ongoing monitoring of security events, investigate incidents, and coordinate incident response activities. Develop and maintain security incident response playbooks and automate routine tasks.
 
-## Education
-- Bachelor's Degree in Cybersecurity, University XYZ (Year)
+## Certifications
 - Certified Ethical Hacker (CEH), EC-Council (Year)
 - Linux Professional Institute Certification (LPIC-1), Linux Professional Institute (Year)
+
+## Education
+- Bachelor's Degree in Cybersecurity, University XYZ (Year)
 
 ## Contact Information
 - Email: your.email@example.com
