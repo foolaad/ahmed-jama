@@ -21,7 +21,7 @@ Steps:
 8. Monitored control effectiveness.
 ##project document or  code:
 
-[click here for the code](project one.pdf)
+[Click here for project code](./project%20one.pdf)
 
 
 
