@@ -1,9 +1,7 @@
-#project one
+# Project one
 
 Project Description:
-As a cyber analyst, I conducted the Cyber Security Risk Assessment and Controls Enhancement Project for Botium Toys. 
-The project involved a comprehensive risk assessment, 
-vulnerability identification, and implementation of controls to ensure compliance and protect critical assets.
+As a cyber analyst, I conducted the Cyber Security Risk Assessment and Controls Enhancement Project for Botium Toys. The project involved a comprehensive risk assessment, vulnerability identification, and implementation of controls to ensure compliance and protect critical assets.
 
 Tools:
 - Vulnerability Assessment Tools
@@ -20,18 +18,6 @@ Steps:
 7. Collaborated to implement controls.
 8. Monitored control effectiveness.
 
+## Project Document or Code
 
-##project document or  code:
-
-
-
-[ ](./project%20one.pdf)
-
-
-
-
-
-
-[click here for project code](project one.pdf)
-   
-
+[Project Document or Code](./project%20one.pdf)
