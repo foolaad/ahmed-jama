@@ -4,7 +4,7 @@
 I am a dedicated Cyber Analyst with a strong passion for leveraging Python task automation, Linux operating system, and SQL to enhance security and streamline processes. With a proven track record in analyzing and mitigating cyber threats, I am committed to staying up-to-date with the latest industry trends and technologies.
 
 ## Projects
-[projects list click here](projects)
+[projects list click here](projects.md)
 
 ## Skills
 - Python: Proficient in writing efficient and scalable Python scripts for automation, data analysis, and web scraping.
